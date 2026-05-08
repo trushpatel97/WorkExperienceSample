@@ -1,0 +1,1012 @@
+Package Category,Initial Email,Responded Email
+Transit,Where is my package? It hasn't moved in 3 days.,Your package is still in transit and expected to update soon.
+Delivered,I didn't receive my package even though it says delivered.,We have opened a case to verify the delivery location.
+Shipped,Has my package shipped yet?,Yes your package shipped earlier today.
+General,I need help updating my delivery address.,Your address has been updated successfully.
+Investigations,My package seems lost. Can you check?,We have initiated an investigation with the carrier.
+Transit,Why is my package delayed?,The delay is due to weather conditions in the region.
+Delivered,The package was left outside and is damaged.,We are processing a replacement for the damaged item.
+Shipped,Can I get the tracking number for my order?,Here is your tracking number: XXXX.
+General,I want to cancel my order.,Your order has been canceled and refunded.
+Investigations,Tracking hasn't updated in a week. Is it stuck?,We escalated the issue to our investigations team.
+Delivered,The package was delivered to the wrong address. Order #10000.,We are reviewing the GPS delivery scan with the carrier. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you. Please allow additional time for updates.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately. You will receive another update shortly.
+General,How do I update my contact information? Order #10006.,Your account details have been updated successfully.
+Investigations,The package never arrived and tracking stopped. Order #10007.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully.
+Transit,My package is delayed in transit. Order #10009.,We apologize for the delay and are monitoring the shipment closely. We appreciate your understanding.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. Please allow additional time for updates.
+Investigations,Can you check if the package was misplaced? Order #10011.,We escalated the issue with the shipping carrier.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. Thank you for your patience.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details. You will receive another update shortly.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. You will receive another update shortly.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. Thank you for your patience.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. We appreciate your understanding.
+Shipped,Can you send me my tracking information? Order #10023.,Your tracking number has been emailed to you. Our support team is monitoring this case.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you. Please allow additional time for updates.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations.
+Transit,The tracking page says in transit for days. Order #10026.,Your package is still on the way and should arrive soon. Our support team is monitoring this case.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+General,How do I update my contact information? Order #10029.,Your account details have been updated successfully. Thank you for your patience.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Order #10031.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Order #10032.,Your cancellation request has been completed. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? This is urgent.,Tracking updates may take time between scan locations.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today. A support representative will follow up if needed.
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,I entered the wrong apartment number.,We corrected the address on your order. Our support team is monitoring this case.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped.
+Delivered,My order says delivered but nothing was left at my door. Order #10041.,Please check nearby areas while we investigate the delivery. Please allow additional time for updates.
+Shipped,When will my order leave the warehouse? Order #10042.,Your package is scheduled to ship later today.
+Delivered,My order says delivered but nothing was left at my door. Order #10043.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order. We appreciate your understanding.
+Shipped,I need the shipment confirmation for my order. Order #10045.,Your shipment confirmation has been sent successfully. You will receive another update shortly.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning."
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. Thank you for your patience.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. Please allow additional time for updates.
+Shipped,Did my package already go out? Order #10049.,"Yes, the carrier picked up your package this morning. We appreciate your understanding."
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order. Please allow additional time for updates.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue. Our support team is monitoring this case.
+Investigations,Can you check if the package was misplaced? Order #10053.,We escalated the issue with the shipping carrier. Thank you for your patience.
+Delivered,My order says delivered but nothing was left at my door. Order #10054.,Please check nearby areas while we investigate the delivery. We appreciate your understanding.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. Thank you for your patience.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. Our support team is monitoring this case.
+Delivered,I received an empty package. Thanks in advance.,We are investigating the missing contents immediately.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. Our support team is monitoring this case.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. We appreciate your understanding."
+General,Can I cancel my order before it ships? Order #10067.,Your cancellation request has been completed. Thank you for your patience.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. We appreciate your understanding.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately.
+Transit,Where is my package? It hasn't updated since yesterday. Order #10070.,Your shipment is still moving through the carrier network.
+General,Can I cancel my order before it ships? Order #10071.,Your cancellation request has been completed. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Please help.,The carrier expects the package to move within the next 24 hours.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. You will receive another update shortly.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely.
+Delivered,The item arrived damaged. Order #10078.,We are arranging a replacement shipment for you.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated. Please allow additional time for updates.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? This is urgent.,Your package is scheduled to ship later today.
+Shipped,Did my package already go out? This is urgent.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely. We appreciate your understanding.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+General,I need to change my shipping address. Order #10089.,Your delivery address has been updated. We appreciate your understanding.
+Delivered,I received an empty package. Order #10090.,We are investigating the missing contents immediately. Our support team is monitoring this case.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. Please allow additional time for updates.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. Please allow additional time for updates.
+Shipped,I need the shipment confirmation for my order. Please help.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. Thank you for your patience.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+General,How do I update my contact information? Order #10097.,Your account details have been updated successfully. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,How do I update my contact information?,Your account details have been updated successfully.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. Please allow additional time for updates.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+General,I entered the wrong apartment number.,We corrected the address on your order. Please allow additional time for updates.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you. Please allow additional time for updates.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. You will receive another update shortly.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. We appreciate your understanding.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely.
+Investigations,The package never arrived and tracking stopped. Order #10117.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase.
+Delivered,The item arrived damaged. Order #10119.,We are arranging a replacement shipment for you.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully. Our support team is monitoring this case.
+Delivered,I received an empty package.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours. You will receive another update shortly.
+Transit,The tracking page says in transit for days. Order #10125.,Your package is still on the way and should arrive soon.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Delivered,My tracking says delivered but I can't find the package. Order #10127.,We have contacted the carrier to verify the delivery details.
+General,I entered the wrong apartment number.,We corrected the address on your order. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. Please allow additional time for updates.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. Thank you for your patience.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Delivered,The package was delivered to the wrong address. Order #10134.,We are reviewing the GPS delivery scan with the carrier.
+Investigations,My package appears lost. Order #10135.,We have opened a carrier investigation for your shipment.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. Please allow additional time for updates.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely.
+Transit,Why has my package been sitting at the same facility? Order #10138.,The carrier expects the package to move within the next 24 hours.
+Transit,Where is my package? It hasn't updated since yesterday.,Your shipment is still moving through the carrier network.
+Investigations,I think my shipment is missing. Order #10140.,We are actively working with the carrier to resolve the issue. Our support team is monitoring this case.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. Thank you for your patience.
+Investigations,My package appears lost.,We have opened a carrier investigation for your shipment.
+Investigations,Can you check if the package was misplaced? Order #10144.,We escalated the issue with the shipping carrier. Please allow additional time for updates.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning. Our support team is monitoring this case."
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. Please allow additional time for updates.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment.
+General,How do I update my contact information?,Your account details have been updated successfully. Thank you for your patience.
+Shipped,When will my order leave the warehouse? Order #10150.,Your package is scheduled to ship later today.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. Thank you for your patience.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery.
+Delivered,I received an empty package. Thanks in advance.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped. Thank you for your patience.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue. Thank you for your patience.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. Thank you for your patience.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. We appreciate your understanding.
+Transit,Can you tell me why tracking stopped updating? Order #10161.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. Please allow additional time for updates.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Shipped,Did my package already go out? This is urgent.,"Yes, the carrier picked up your package this morning."
+General,I need to change my shipping address. Thanks in advance.,Your delivery address has been updated. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Delivered,The item arrived damaged. Order #10169.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Please help.,Your shipment confirmation has been sent successfully. Please allow additional time for updates.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately. We appreciate your understanding.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Order #10179.,Please check nearby areas while we investigate the delivery. You will receive another update shortly.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details. We appreciate your understanding.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. You will receive another update shortly.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. Our support team is monitoring this case.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address. Please help.,We are reviewing the GPS delivery scan with the carrier.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery.
+General,How do I update my contact information?,Your account details have been updated successfully. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. You will receive another update shortly.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully. A support representative will follow up if needed.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Investigations,I think my shipment is missing. Order #10193.,We are actively working with the carrier to resolve the issue.
+Delivered,I received an empty package.,We are investigating the missing contents immediately. Thank you for your patience.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+General,I want to place a replacement order. This is urgent.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. Our support team is monitoring this case.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+Investigations,I think my shipment is missing. Order #10201.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. Thank you for your patience.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed.
+General,I want to place a replacement order. Order #10205.,We can assist you with a replacement purchase.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you.
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order. We appreciate your understanding.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue.
+General,How do I update my contact information?,Your account details have been updated successfully. Our support team is monitoring this case.
+Transit,The tracking page says in transit for days. Order #10210.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Transit,Can you tell me why tracking stopped updating? This is urgent.,Tracking updates may take time between scan locations.
+Delivered,I received an empty package. Order #10212.,We are investigating the missing contents immediately.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. Please allow additional time for updates.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. You will receive another update shortly.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue. You will receive another update shortly.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier.
+Transit,Can you tell me why tracking stopped updating? Order #10221.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Order #10225.,We are reviewing the GPS delivery scan with the carrier.
+Delivered,I received an empty package.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. You will receive another update shortly.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you. You will receive another update shortly.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. Order #10232.,Our investigations team is reviewing the delay. Please allow additional time for updates.
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Order #10234.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase.
+Transit,Why has my package been sitting at the same facility? Please help.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Please help.,Your shipment confirmation has been sent successfully. We appreciate your understanding.
+Shipped,I need the shipment confirmation for my order. Order #10238.,Your shipment confirmation has been sent successfully.
+General,I need to change my shipping address. Order #10239.,Your delivery address has been updated. Please allow additional time for updates.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today. We appreciate your understanding.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely.
+General,I want to place a replacement order. Order #10242.,We can assist you with a replacement purchase.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon.
+Delivered,I received an empty package. Order #10245.,We are investigating the missing contents immediately. Our support team is monitoring this case.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Order #10250.,Your package is scheduled to ship later today.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. You will receive another update shortly.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Transit,Why has my package been sitting at the same facility? Order #10254.,The carrier expects the package to move within the next 24 hours. You will receive another update shortly.
+Delivered,I received an empty package. Order #10255.,We are investigating the missing contents immediately.
+Shipped,Has my order shipped yet? Order #10256.,Your order has already been shipped.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment. Our support team is monitoring this case.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully. A support representative will follow up if needed.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Delivered,I received an empty package.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Order #10267.,We are arranging a replacement shipment for you.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment. Thank you for your patience.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier.
+Shipped,Did my package already go out? Order #10273.,"Yes, the carrier picked up your package this morning."
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped. We appreciate your understanding.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details.
+General,I want to place a replacement order. Order #10277.,We can assist you with a replacement purchase.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier. You will receive another update shortly.
+General,I entered the wrong apartment number. Order #10281.,We corrected the address on your order. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. Please allow additional time for updates.
+General,I entered the wrong apartment number.,We corrected the address on your order. We appreciate your understanding.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. Order #10285.,Your shipment is still moving through the carrier network.
+General,I need to change my shipping address.,Your delivery address has been updated. A support representative will follow up if needed.
+General,I need to change my shipping address.,Your delivery address has been updated. You will receive another update shortly.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier. Thank you for your patience.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. Thank you for your patience.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely. Our support team is monitoring this case.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. Our support team is monitoring this case.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. Thank you for your patience.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. Thank you for your patience.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed.
+General,I entered the wrong apartment number. Order #10303.,We corrected the address on your order.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Order #10306.,Your cancellation request has been completed.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Order #10312.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Order #10313.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Delivered,I received an empty package.,We are investigating the missing contents immediately.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. We appreciate your understanding.
+Investigations,Can you check if the package was misplaced? Order #10318.,We escalated the issue with the shipping carrier. Please allow additional time for updates.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+General,I need to change my shipping address.,Your delivery address has been updated.
+Transit,Why has my package been sitting at the same facility? Order #10325.,The carrier expects the package to move within the next 24 hours. Please allow additional time for updates.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon. Thank you for your patience.
+Delivered,The item arrived damaged. Thanks in advance.,We are arranging a replacement shipment for you.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon.
+Transit,Can you tell me why tracking stopped updating? Order #10330.,Tracking updates may take time between scan locations.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. Our support team is monitoring this case."
+General,I want to place a replacement order. Order #10333.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+General,How do I update my contact information? Order #10334.,Your account details have been updated successfully. Please allow additional time for updates.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. A support representative will follow up if needed.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated. Please allow additional time for updates.
+General,I want to place a replacement order. This is urgent.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you.
+General,I entered the wrong apartment number.,We corrected the address on your order. A support representative will follow up if needed.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning."
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today. Our support team is monitoring this case.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Investigations,The package never arrived and tracking stopped. Order #10346.,An investigation has been initiated to locate the shipment.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Order #10348.,We escalated the issue with the shipping carrier.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. A support representative will follow up if needed.
+Transit,My package is delayed in transit. Order #10350.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Order #10352.,An investigation has been initiated to locate the shipment. Thank you for your patience.
+Shipped,Has my order shipped yet? Order #10353.,Your order has already been shipped. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details.
+Transit,Can you tell me why tracking stopped updating? This is urgent.,Tracking updates may take time between scan locations. Our support team is monitoring this case.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. Our support team is monitoring this case.
+General,I entered the wrong apartment number.,We corrected the address on your order.
+Shipped,Did my package already go out? This is urgent.,"Yes, the carrier picked up your package this morning. Our support team is monitoring this case."
+Shipped,Did my package already go out? Order #10359.,"Yes, the carrier picked up your package this morning. Our support team is monitoring this case."
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address. Order #10362.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. We appreciate your understanding.
+Delivered,The package was delivered to the wrong address.,We are reviewing the GPS delivery scan with the carrier. Please allow additional time for updates.
+Transit,My package is delayed in transit. Order #10365.,We apologize for the delay and are monitoring the shipment closely.
+General,I need to change my shipping address. Thanks in advance.,Your delivery address has been updated. We appreciate your understanding.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. Our support team is monitoring this case.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase.
+Delivered,The item arrived damaged. Order #10370.,We are arranging a replacement shipment for you. We appreciate your understanding.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery.
+General,I need to change my shipping address. Order #10372.,Your delivery address has been updated.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order.
+Shipped,I need the shipment confirmation for my order. Order #10375.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Please help.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours. You will receive another update shortly.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. We appreciate your understanding.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully.
+General,I need to change my shipping address. Order #10380.,Your delivery address has been updated. A support representative will follow up if needed.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning."
+Shipped,Can you send me my tracking information? Order #10382.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. We appreciate your understanding.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Transit,Why has my package been sitting at the same facility? Order #10387.,The carrier expects the package to move within the next 24 hours.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you. Thank you for your patience.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. Please allow additional time for updates."
+Transit,My package is delayed in transit. Order #10393.,We apologize for the delay and are monitoring the shipment closely.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Order #10396.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Order #10400.,The carrier expects the package to move within the next 24 hours.
+Shipped,Has my order shipped yet? Order #10401.,Your order has already been shipped. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Order #10402.,Your order has already been shipped.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+Transit,The tracking page says in transit for days. Order #10407.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully.
+Transit,Where is my package? It hasn't updated since yesterday. Order #10411.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Order #10412.,Your shipment confirmation has been sent successfully. Please allow additional time for updates.
+Delivered,The package was delivered to the wrong address. Please help.,We are reviewing the GPS delivery scan with the carrier.
+Transit,My package is delayed in transit. Order #10414.,We apologize for the delay and are monitoring the shipment closely.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. We appreciate your understanding.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. Thank you for your patience.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated. Please allow additional time for updates.
+Shipped,Has my order shipped yet?,Your order has already been shipped. Our support team is monitoring this case.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. A support representative will follow up if needed.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. Please allow additional time for updates.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today. Please allow additional time for updates.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier.
+Shipped,When will my order leave the warehouse? Order #10424.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? This is urgent.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. You will receive another update shortly.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you. Our support team is monitoring this case.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours.
+Shipped,When will my order leave the warehouse? This is urgent.,Your package is scheduled to ship later today.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. We appreciate your understanding.
+Shipped,Has my order shipped yet? Order #10433.,Your order has already been shipped. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order. Please allow additional time for updates.
+General,I entered the wrong apartment number.,We corrected the address on your order. Our support team is monitoring this case.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. Please allow additional time for updates."
+General,Can I cancel my order before it ships? Order #10441.,Your cancellation request has been completed.
+Shipped,When will my order leave the warehouse? Order #10442.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment.
+Transit,Why has my package been sitting at the same facility? Order #10444.,The carrier expects the package to move within the next 24 hours.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order. We appreciate your understanding.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully.
+Delivered,The item arrived damaged. Order #10448.,We are arranging a replacement shipment for you. Our support team is monitoring this case.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. We appreciate your understanding.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated. A support representative will follow up if needed.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. Please allow additional time for updates."
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. You will receive another update shortly.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+General,I need to change my shipping address. Thanks in advance.,Your delivery address has been updated. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Order #10458.,The carrier expects the package to move within the next 24 hours.
+Transit,Where is my package? It hasn't updated since yesterday.,Your shipment is still moving through the carrier network.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+Delivered,The item arrived damaged. Order #10461.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. You will receive another update shortly.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment. Please allow additional time for updates.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. Our support team is monitoring this case.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Order #10474.,Your order has already been shipped. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped.
+Transit,Where is my package? It hasn't updated since yesterday. Please help.,Your shipment is still moving through the carrier network.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped. A support representative will follow up if needed.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue. You will receive another update shortly.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery.
+Shipped,I need the shipment confirmation for my order. Order #10482.,Your shipment confirmation has been sent successfully. You will receive another update shortly.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue. Our support team is monitoring this case.
+Transit,Where is my package? It hasn't updated since yesterday. Order #10485.,Your shipment is still moving through the carrier network.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+Shipped,Can you send me my tracking information? Order #10487.,Your tracking number has been emailed to you. We appreciate your understanding.
+General,How do I update my contact information? Order #10488.,Your account details have been updated successfully.
+Transit,My package is delayed in transit. Order #10489.,We apologize for the delay and are monitoring the shipment closely.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. Thank you for your patience.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon.
+Shipped,Can you send me my tracking information? Order #10495.,Your tracking number has been emailed to you. Thank you for your patience.
+General,I entered the wrong apartment number. This is urgent.,We corrected the address on your order. Please allow additional time for updates.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Order #10500.,Our investigations team is reviewing the delay.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Order #10504.,We are arranging a replacement shipment for you.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully. We appreciate your understanding.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Please help.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. Please help.,Your shipment is still moving through the carrier network.
+Transit,Why has my package been sitting at the same facility? Order #10510.,The carrier expects the package to move within the next 24 hours.
+Shipped,I need the shipment confirmation for my order. Order #10511.,Your shipment confirmation has been sent successfully.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. You will receive another update shortly.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. We appreciate your understanding.
+General,How do I update my contact information?,Your account details have been updated successfully. A support representative will follow up if needed.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Order #10517.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Shipped,Has my order shipped yet? Order #10520.,Your order has already been shipped. Please allow additional time for updates.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. Please allow additional time for updates.
+Shipped,Can you send me my tracking information? Order #10522.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. We appreciate your understanding.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+Shipped,When will my order leave the warehouse? Order #10525.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Order #10526.,Your package is scheduled to ship later today.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Delivered,The item arrived damaged. Order #10528.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information? Order #10529.,Your tracking number has been emailed to you.
+Transit,Where is my package? It hasn't updated since yesterday. Please help.,Your shipment is still moving through the carrier network.
+General,I entered the wrong apartment number.,We corrected the address on your order.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Shipped,Did my package already go out? This is urgent.,"Yes, the carrier picked up your package this morning. Thank you for your patience."
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning. Please allow additional time for updates."
+General,I entered the wrong apartment number.,We corrected the address on your order. Thank you for your patience.
+Investigations,Tracking hasn't changed in over a week.,Our investigations team is reviewing the delay.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+Shipped,When will my order leave the warehouse? Order #10540.,Your package is scheduled to ship later today.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today.
+General,I need to change my shipping address.,Your delivery address has been updated. Thank you for your patience.
+Investigations,My package appears lost. Order #10543.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you. You will receive another update shortly.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Delivered,I received an empty package. Please help.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Thanks in advance.,We have contacted the carrier to verify the delivery details.
+Shipped,Has my order shipped yet?,Your order has already been shipped. Our support team is monitoring this case.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today. You will receive another update shortly.
+General,I need to change my shipping address.,Your delivery address has been updated.
+Delivered,The package was delivered to the wrong address. Order #10555.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+General,I want to place a replacement order. Order #10556.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours. You will receive another update shortly.
+Delivered,The item arrived damaged. Order #10558.,We are arranging a replacement shipment for you.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Order #10561.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Order #10564.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue. Please allow additional time for updates.
+Delivered,I received an empty package. Thanks in advance.,We are investigating the missing contents immediately.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+General,How do I update my contact information? Order #10572.,Your account details have been updated successfully.
+Shipped,Did my package already go out? Order #10573.,"Yes, the carrier picked up your package this morning."
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. Please allow additional time for updates.
+Transit,Why has my package been sitting at the same facility? Order #10575.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door. Order #10581.,Please check nearby areas while we investigate the delivery. You will receive another update shortly.
+Transit,Why has my package been sitting at the same facility?,The carrier expects the package to move within the next 24 hours. We appreciate your understanding.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier.
+Investigations,My package appears lost. Order #10584.,We have opened a carrier investigation for your shipment. Please allow additional time for updates.
+Investigations,Can you check if the package was misplaced? Order #10585.,We escalated the issue with the shipping carrier. You will receive another update shortly.
+Transit,Where is my package? It hasn't updated since yesterday.,Your shipment is still moving through the carrier network. You will receive another update shortly.
+Delivered,The item arrived damaged. Order #10587.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Investigations,My package appears lost.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully. We appreciate your understanding.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon.
+Delivered,My order says delivered but nothing was left at my door. Order #10592.,Please check nearby areas while we investigate the delivery.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. You will receive another update shortly.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment.
+Delivered,My tracking says delivered but I can't find the package. Order #10595.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. We appreciate your understanding."
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment. Our support team is monitoring this case.
+Investigations,Can you check if the package was misplaced? Please help.,We escalated the issue with the shipping carrier. Please allow additional time for updates.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Order #10600.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully. Please allow additional time for updates.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Order #10607.,Your package is scheduled to ship later today.
+Investigations,My package appears lost. Order #10608.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully.
+Transit,Can you tell me why tracking stopped updating? Order #10611.,Tracking updates may take time between scan locations.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. You will receive another update shortly.
+General,Can I cancel my order before it ships? Order #10616.,Your cancellation request has been completed. A support representative will follow up if needed.
+General,I want to place a replacement order. This is urgent.,We can assist you with a replacement purchase.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay.
+General,I entered the wrong apartment number. Order #10619.,We corrected the address on your order. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Order #10620.,An investigation has been initiated to locate the shipment. Please allow additional time for updates.
+General,I need to change my shipping address. Order #10621.,Your delivery address has been updated.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue. You will receive another update shortly.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. We appreciate your understanding.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely. You will receive another update shortly.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment. Our support team is monitoring this case.
+Transit,My package is delayed in transit. Order #10630.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you. A support representative will follow up if needed.
+General,I need to change my shipping address. Thanks in advance.,Your delivery address has been updated. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week.,Our investigations team is reviewing the delay.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Delivered,The item arrived damaged. Order #10636.,We are arranging a replacement shipment for you. Please allow additional time for updates.
+Investigations,My package appears lost. Order #10637.,We have opened a carrier investigation for your shipment.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you. Please allow additional time for updates.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed. Please allow additional time for updates.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped.
+General,I need to change my shipping address. Order #10642.,Your delivery address has been updated. Please allow additional time for updates.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. Please allow additional time for updates.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully. Please allow additional time for updates.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today. Thank you for your patience.
+Investigations,My package appears lost. Order #10650.,We have opened a carrier investigation for your shipment.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. You will receive another update shortly."
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced?,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you. We appreciate your understanding.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. Please allow additional time for updates.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Delivered,My order says delivered but nothing was left at my door. Order #10660.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely. Please allow additional time for updates.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network.
+Delivered,The item arrived damaged. Thanks in advance.,We are arranging a replacement shipment for you. Please allow additional time for updates.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. Thank you for your patience.
+Transit,Why has my package been sitting at the same facility?,The carrier expects the package to move within the next 24 hours.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. Our support team is monitoring this case.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. Thank you for your patience.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. Thank you for your patience.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. A support representative will follow up if needed.
+Shipped,Has my order shipped yet?,Your order has already been shipped. You will receive another update shortly.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated.
+Investigations,Tracking hasn't changed in over a week. Order #10678.,Our investigations team is reviewing the delay.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Shipped,Can you send me my tracking information? Order #10680.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Order #10681.,We escalated the issue with the shipping carrier.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Please help.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Order #10684.,We are actively working with the carrier to resolve the issue. We appreciate your understanding.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully. Our support team is monitoring this case.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. We appreciate your understanding.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week.,Our investigations team is reviewing the delay.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Order #10694.,Your cancellation request has been completed. Please allow additional time for updates.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. We appreciate your understanding.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. We appreciate your understanding.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today.
+Shipped,Did my package already go out? Order #10699.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+General,I entered the wrong apartment number.,We corrected the address on your order. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully. We appreciate your understanding.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week.,Our investigations team is reviewing the delay. Thank you for your patience.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. We appreciate your understanding.
+Investigations,My package appears lost. Order #10707.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Order #10708.,We are arranging a replacement shipment for you. We appreciate your understanding.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. You will receive another update shortly.
+General,I entered the wrong apartment number. Order #10710.,We corrected the address on your order. We appreciate your understanding.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. Thank you for your patience.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. Please allow additional time for updates.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment.
+Delivered,My order says delivered but nothing was left at my door. Thanks in advance.,Please check nearby areas while we investigate the delivery.
+Shipped,When will my order leave the warehouse? This is urgent.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment. You will receive another update shortly.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment.
+Investigations,Can you check if the package was misplaced? This is urgent.,We escalated the issue with the shipping carrier. You will receive another update shortly.
+Shipped,Has my order shipped yet? Order #10725.,Your order has already been shipped.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. Please allow additional time for updates.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully.
+Investigations,Can you check if the package was misplaced? Order #10730.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Delivered,I received an empty package. Order #10732.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully.
+Shipped,When will my order leave the warehouse? Order #10735.,Your package is scheduled to ship later today.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. We appreciate your understanding.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. Thank you for your patience.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Order #10739.,Your shipment confirmation has been sent successfully. Please allow additional time for updates.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely. Thank you for your patience.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. You will receive another update shortly.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully.
+Transit,The tracking page says in transit for days. Order #10744.,Your package is still on the way and should arrive soon. We appreciate your understanding.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today. Thank you for your patience.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? This is urgent.,Tracking updates may take time between scan locations.
+Transit,Why has my package been sitting at the same facility? Order #10751.,The carrier expects the package to move within the next 24 hours. Please allow additional time for updates.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely. Our support team is monitoring this case.
+Transit,Why has my package been sitting at the same facility? Order #10755.,The carrier expects the package to move within the next 24 hours. Please allow additional time for updates.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. We appreciate your understanding.
+Investigations,I think my shipment is missing. Thanks in advance.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Delivered,I received an empty package. Order #10760.,We are investigating the missing contents immediately. Our support team is monitoring this case.
+General,Can I cancel my order before it ships? Order #10761.,Your cancellation request has been completed.
+Transit,Can you tell me why tracking stopped updating? This is urgent.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Please help.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning."
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. We appreciate your understanding.
+Investigations,The package never arrived and tracking stopped. Thanks in advance.,An investigation has been initiated to locate the shipment. Please allow additional time for updates.
+Investigations,The package never arrived and tracking stopped. Please help.,An investigation has been initiated to locate the shipment.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. A support representative will follow up if needed.
+Shipped,Did my package already go out? Order #10770.,"Yes, the carrier picked up your package this morning. Thank you for your patience."
+Investigations,I think my shipment is missing. Order #10771.,We are actively working with the carrier to resolve the issue.
+Shipped,Has my order shipped yet? Order #10772.,Your order has already been shipped. A support representative will follow up if needed.
+Shipped,Has my order shipped yet?,Your order has already been shipped. Please allow additional time for updates.
+Delivered,I received an empty package.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address.,We are reviewing the GPS delivery scan with the carrier. Please allow additional time for updates.
+General,I want to place a replacement order. Order #10778.,We can assist you with a replacement purchase. You will receive another update shortly.
+Transit,Why has my package been sitting at the same facility? Order #10779.,The carrier expects the package to move within the next 24 hours. You will receive another update shortly.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully.
+General,I need to change my shipping address.,Your delivery address has been updated. Thank you for your patience.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment.
+Transit,Where is my package? It hasn't updated since yesterday. Order #10786.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Please help.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Investigations,My package appears lost. Order #10788.,We have opened a carrier investigation for your shipment. You will receive another update shortly.
+General,I entered the wrong apartment number. Thanks in advance.,We corrected the address on your order.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped.
+General,I need to change my shipping address. Please help.,Your delivery address has been updated. A support representative will follow up if needed.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. Our support team is monitoring this case.
+Delivered,I received an empty package. Order #10793.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. This is urgent.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated.
+Delivered,I received an empty package. Order #10796.,We are investigating the missing contents immediately.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment.
+Transit,Can you tell me why tracking stopped updating? Order #10798.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. Please allow additional time for updates.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today. Thank you for your patience.
+Transit,Where is my package? It hasn't updated since yesterday. Please help.,Your shipment is still moving through the carrier network. Our support team is monitoring this case.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Investigations,I think my shipment is missing. Order #10803.,We are actively working with the carrier to resolve the issue.
+Transit,Why has my package been sitting at the same facility? Order #10804.,The carrier expects the package to move within the next 24 hours.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order.
+General,I want to place a replacement order. Thanks in advance.,We can assist you with a replacement purchase. You will receive another update shortly.
+Investigations,Tracking hasn't changed in over a week.,Our investigations team is reviewing the delay.
+General,How do I update my contact information? This is urgent.,Your account details have been updated successfully.
+Transit,My package is delayed in transit. Order #10809.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Order #10810.,Our investigations team is reviewing the delay.
+Shipped,Did my package already go out?,"Yes, the carrier picked up your package this morning. Our support team is monitoring this case."
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. We appreciate your understanding.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed.
+Transit,Can you tell me why tracking stopped updating? Order #10814.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Delivered,The item arrived damaged. Thanks in advance.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information?,Your tracking number has been emailed to you. Please allow additional time for updates.
+General,I want to place a replacement order. This is urgent.,We can assist you with a replacement purchase.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment. Our support team is monitoring this case.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. You will receive another update shortly.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately.
+Shipped,I need the shipment confirmation for my order. Order #10822.,Your shipment confirmation has been sent successfully. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Please help.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Order #10824.,Your order has already been shipped.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely. Our support team is monitoring this case.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. Please allow additional time for updates.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network.
+Investigations,My package appears lost. Thanks in advance.,We have opened a carrier investigation for your shipment. Thank you for your patience.
+General,I entered the wrong apartment number.,We corrected the address on your order.
+Transit,Why has my package been sitting at the same facility? Thanks in advance.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Shipped,Has my order shipped yet?,Your order has already been shipped. Please allow additional time for updates.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. Our support team is monitoring this case.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. Please allow additional time for updates.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Delivered,The package was delivered to the wrong address. Please help.,We are reviewing the GPS delivery scan with the carrier. Thank you for your patience.
+Investigations,I think my shipment is missing.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. You will receive another update shortly.
+Transit,Why has my package been sitting at the same facility? Order #10839.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped. A support representative will follow up if needed.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment. Thank you for your patience.
+Transit,Where is my package? It hasn't updated since yesterday.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely.
+Delivered,The package was delivered to the wrong address. Thanks in advance.,We are reviewing the GPS delivery scan with the carrier. Please allow additional time for updates.
+Delivered,My tracking says delivered but I can't find the package. Order #10845.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Order #10846.,Your cancellation request has been completed. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+General,I need to change my shipping address.,Your delivery address has been updated. You will receive another update shortly.
+Delivered,The item arrived damaged. Please help.,We are arranging a replacement shipment for you.
+Transit,My package is delayed in transit. Thanks in advance.,We apologize for the delay and are monitoring the shipment closely. Our support team is monitoring this case.
+General,I want to place a replacement order. This is urgent.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Order #10853.,Your order has already been shipped. A support representative will follow up if needed.
+Transit,My package is delayed in transit. This is urgent.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+General,How do I update my contact information? Thanks in advance.,Your account details have been updated successfully. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier.
+Delivered,The item arrived damaged. Thanks in advance.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Please help.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment. You will receive another update shortly.
+General,How do I update my contact information?,Your account details have been updated successfully.
+Transit,Where is my package? It hasn't updated since yesterday. This is urgent.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Shipped,Did my package already go out? This is urgent.,"Yes, the carrier picked up your package this morning. A support representative will follow up if needed."
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+General,I need to change my shipping address. Order #10865.,Your delivery address has been updated. Thank you for your patience.
+General,I entered the wrong apartment number.,We corrected the address on your order. A support representative will follow up if needed.
+Investigations,My package appears lost.,We have opened a carrier investigation for your shipment. Thank you for your patience.
+General,I need to change my shipping address. This is urgent.,Your delivery address has been updated. Please allow additional time for updates.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon.
+Shipped,When will my order leave the warehouse? This is urgent.,Your package is scheduled to ship later today. We appreciate your understanding.
+Delivered,The item arrived damaged. Order #10871.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. Order #10872.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility?,The carrier expects the package to move within the next 24 hours.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. Our support team is monitoring this case.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse?,Your package is scheduled to ship later today. We appreciate your understanding.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully. We appreciate your understanding.
+Delivered,The item arrived damaged. This is urgent.,We are arranging a replacement shipment for you.
+General,I need to change my shipping address. Order #10882.,Your delivery address has been updated. A support representative will follow up if needed.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. Our support team is monitoring this case.
+General,How do I update my contact information? Order #10884.,Your account details have been updated successfully. A support representative will follow up if needed.
+General,Can I cancel my order before it ships?,Your cancellation request has been completed. Our support team is monitoring this case.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning."
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations.
+General,I want to place a replacement order. Order #10890.,We can assist you with a replacement purchase.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating? Thanks in advance.,Tracking updates may take time between scan locations.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue.
+Shipped,When will my order leave the warehouse? Please help.,Your package is scheduled to ship later today. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped. Order #10896.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. You will receive another update shortly.
+Transit,Where is my package? It hasn't updated since yesterday. Please help.,Your shipment is still moving through the carrier network.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. You will receive another update shortly.
+Transit,The tracking page says in transit for days. This is urgent.,Your package is still on the way and should arrive soon. You will receive another update shortly.
+General,I need to change my shipping address. Thanks in advance.,Your delivery address has been updated. A support representative will follow up if needed.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Order #10906.,Our investigations team is reviewing the delay.
+Transit,Where is my package? It hasn't updated since yesterday. Thanks in advance.,Your shipment is still moving through the carrier network.
+General,I need to change my shipping address. Order #10908.,Your delivery address has been updated. Our support team is monitoring this case.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Investigations,Can you check if the package was misplaced? Order #10911.,We escalated the issue with the shipping carrier.
+Shipped,When will my order leave the warehouse? Thanks in advance.,Your package is scheduled to ship later today. You will receive another update shortly.
+Shipped,Can you send me my tracking information? This is urgent.,Your tracking number has been emailed to you.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. Thank you for your patience.
+Delivered,My tracking says delivered but I can't find the package.,We have contacted the carrier to verify the delivery details. We appreciate your understanding.
+Investigations,My package appears lost. This is urgent.,We have opened a carrier investigation for your shipment.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. Please allow additional time for updates.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning."
+Delivered,My tracking says delivered but I can't find the package. Order #10919.,We have contacted the carrier to verify the delivery details. You will receive another update shortly.
+Transit,The tracking page says in transit for days. Thanks in advance.,Your package is still on the way and should arrive soon.
+General,How do I update my contact information? Order #10921.,Your account details have been updated successfully. A support representative will follow up if needed.
+Investigations,My package appears lost. Please help.,We have opened a carrier investigation for your shipment.
+Shipped,Has my order shipped yet? Thanks in advance.,Your order has already been shipped. We appreciate your understanding.
+Delivered,The item arrived damaged.,We are arranging a replacement shipment for you. You will receive another update shortly.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. Our support team is monitoring this case.
+Shipped,Did my package already go out? Thanks in advance.,"Yes, the carrier picked up your package this morning."
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details. A support representative will follow up if needed.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier.
+Transit,Can you tell me why tracking stopped updating?,Tracking updates may take time between scan locations. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Thanks in advance.,Our investigations team is reviewing the delay.
+General,I need to change my shipping address.,Your delivery address has been updated. Our support team is monitoring this case.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Please help.,The carrier expects the package to move within the next 24 hours.
+Investigations,Tracking hasn't changed in over a week. Order #10935.,Our investigations team is reviewing the delay.
+Investigations,My package appears lost. Order #10936.,We have opened a carrier investigation for your shipment.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully.
+General,I entered the wrong apartment number. Please help.,We corrected the address on your order.
+Investigations,I think my shipment is missing. Order #10939.,We are actively working with the carrier to resolve the issue. Thank you for your patience.
+Transit,My package is delayed in transit. Order #10940.,We apologize for the delay and are monitoring the shipment closely. Our support team is monitoring this case.
+Shipped,When will my order leave the warehouse? Order #10941.,Your package is scheduled to ship later today. Our support team is monitoring this case.
+Delivered,My order says delivered but nothing was left at my door. Order #10942.,Please check nearby areas while we investigate the delivery.
+Investigations,Can you check if the package was misplaced? Thanks in advance.,We escalated the issue with the shipping carrier. A support representative will follow up if needed.
+Delivered,My order says delivered but nothing was left at my door. This is urgent.,Please check nearby areas while we investigate the delivery. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. This is urgent.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay.
+Shipped,Has my order shipped yet? This is urgent.,Your order has already been shipped. Please allow additional time for updates.
+Delivered,The package was delivered to the wrong address. Order #10948.,We are reviewing the GPS delivery scan with the carrier.
+Transit,My package is delayed in transit. Please help.,We apologize for the delay and are monitoring the shipment closely.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier.
+Delivered,The item arrived damaged. Order #10951.,We are arranging a replacement shipment for you. Our support team is monitoring this case.
+Delivered,The item arrived damaged. Order #10952.,We are arranging a replacement shipment for you. A support representative will follow up if needed.
+General,Can I cancel my order before it ships? Please help.,Your cancellation request has been completed. A support representative will follow up if needed.
+Shipped,Can you send me my tracking information? Thanks in advance.,Your tracking number has been emailed to you.
+General,I entered the wrong apartment number.,We corrected the address on your order. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Please help.,We have contacted the carrier to verify the delivery details.
+General,Can I cancel my order before it ships? This is urgent.,Your cancellation request has been completed. Please allow additional time for updates.
+General,Can I cancel my order before it ships? Order #10958.,Your cancellation request has been completed. You will receive another update shortly.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. Our support team is monitoring this case.
+Investigations,I think my shipment is missing. Please help.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Transit,My package is delayed in transit. Order #10961.,We apologize for the delay and are monitoring the shipment closely. Please allow additional time for updates.
+General,I want to place a replacement order.,We can assist you with a replacement purchase. We appreciate your understanding.
+Shipped,Has my order shipped yet?,Your order has already been shipped. You will receive another update shortly.
+General,Can I cancel my order before it ships? Thanks in advance.,Your cancellation request has been completed. We appreciate your understanding.
+Delivered,I received an empty package. Order #10965.,We are investigating the missing contents immediately. You will receive another update shortly.
+Shipped,Can you send me my tracking information? Please help.,Your tracking number has been emailed to you. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? This is urgent.,The carrier expects the package to move within the next 24 hours. Our support team is monitoring this case.
+Investigations,Tracking hasn't changed in over a week. This is urgent.,Our investigations team is reviewing the delay. Please allow additional time for updates.
+General,I want to place a replacement order. Please help.,We can assist you with a replacement purchase. A support representative will follow up if needed.
+Investigations,Tracking hasn't changed in over a week. Please help.,Our investigations team is reviewing the delay. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Order #10971.,We have contacted the carrier to verify the delivery details.
+General,I entered the wrong apartment number.,We corrected the address on your order.
+Delivered,I received an empty package. Order #10973.,We are investigating the missing contents immediately. You will receive another update shortly.
+Delivered,I received an empty package. This is urgent.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Investigations,The package never arrived and tracking stopped.,An investigation has been initiated to locate the shipment. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Please help.,Your shipment confirmation has been sent successfully. Please allow additional time for updates.
+Investigations,Tracking hasn't changed in over a week. Order #10977.,Our investigations team is reviewing the delay. Thank you for your patience.
+Delivered,I received an empty package. Thanks in advance.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+General,How do I update my contact information? Please help.,Your account details have been updated successfully. A support representative will follow up if needed.
+Transit,My package is delayed in transit.,We apologize for the delay and are monitoring the shipment closely. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped. A support representative will follow up if needed.
+Transit,Why has my package been sitting at the same facility? Order #10982.,The carrier expects the package to move within the next 24 hours. A support representative will follow up if needed.
+Shipped,Has my order shipped yet? Please help.,Your order has already been shipped. Our support team is monitoring this case.
+Delivered,My order says delivered but nothing was left at my door.,Please check nearby areas while we investigate the delivery. We appreciate your understanding.
+Delivered,I received an empty package. Thanks in advance.,We are investigating the missing contents immediately. A support representative will follow up if needed.
+Shipped,Did my package already go out? Please help.,"Yes, the carrier picked up your package this morning."
+Shipped,Has my order shipped yet?,Your order has already been shipped.
+General,I want to place a replacement order. Order #10988.,We can assist you with a replacement purchase. We appreciate your understanding.
+Investigations,I think my shipment is missing. This is urgent.,We are actively working with the carrier to resolve the issue. A support representative will follow up if needed.
+Transit,The tracking page says in transit for days.,Your package is still on the way and should arrive soon. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order.,Your shipment confirmation has been sent successfully.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+Shipped,I need the shipment confirmation for my order. Thanks in advance.,Your shipment confirmation has been sent successfully. Thank you for your patience.
+Investigations,The package never arrived and tracking stopped. This is urgent.,An investigation has been initiated to locate the shipment.
+Delivered,The package was delivered to the wrong address. This is urgent.,We are reviewing the GPS delivery scan with the carrier. A support representative will follow up if needed.
+General,I need to change my shipping address.,Your delivery address has been updated. A support representative will follow up if needed.
+Delivered,My tracking says delivered but I can't find the package. Order #10997.,We have contacted the carrier to verify the delivery details. Thank you for your patience.
+Delivered,My order says delivered but nothing was left at my door. Order #10998.,Please check nearby areas while we investigate the delivery.
+General,I need to change my shipping address. Order #10999.,Your delivery address has been updated. Our support team is monitoring this case.
+General,How many days do I have to return the item, Hi so our policy is that we allow up to 30 days to return a package
